@@ -1,0 +1,35 @@
+[33mcommit 208f077fc015f4c82835bca4f67dbae094f0630a[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Geovanni Arteaga <bryangeovanni131013@gmail.com>
+Date:   Fri May 12 18:20:29 2023 -0600
+
+    Cambio de titulo por lista de cursos de DevOpps
+
+[33mcommit 73dbfc8e7baf898a56204c301d4927cab71b8ba0[m
+Author: Geovanni Arteaga <bryangeovanni131013@gmail.com>
+Date:   Fri May 12 18:16:15 2023 -0600
+
+    Modificando el titulo
+
+[33mcommit 511b9a8b0c3d35e95cd91efeb15ec6f0e27e96d0[m[33m ([m[1;31mservidorlocal/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Bryan Geovanni <bryangeovanni131013@gmail.com>
+Date:   Fri May 12 08:21:23 2023 -0600
+
+    renombrando curso de integracion
+
+[33mcommit 8186bc095075f032b58fd3e5d07462caebd6d359[m
+Author: Geovanni Arteaga <bryangeovanni131013@gmail.com>
+Date:   Thu May 11 08:24:14 2023 -0600
+
+    Agregando gitignore
+
+[33mcommit a817f3ad039250963cc16297067e91f10fb66072[m
+Author: Bryan Geovanni <bryangeovanni131013@gmail.com>
+Date:   Tue May 9 08:41:54 2023 -0600
+
+    Modifique el archivo intex.html
+
+[33mcommit 84c5796ba52f13d0872f4c3f503a57205c31128d[m
+Author: Bryan Geovanni <bryangeovanni131013@gmail.com>
+Date:   Tue May 9 08:33:57 2023 -0600
+
+    Creando archivo index.html con lista de cursos
